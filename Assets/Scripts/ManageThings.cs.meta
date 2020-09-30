@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d82bf8efe37582140a328999ae1c3bdb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - snitch: {fileID: 3544239809205880236, guid: 3266e56062132ce4ca243fcba4a835ca,
+      type: 3}
+  - gryf: {fileID: 8508875528597355518, guid: 5f8ccfad7f08c4644ac9c16c55a7fc93, type: 3}
+  - Slyth: {fileID: 8508875528597355518, guid: ef8d5401ef1892d4c97d00cbab9fc299, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
